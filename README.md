@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Science & Machine Learning 
-- 🌱 I’m currently learning Deep & Dark Web / CyberSecurity
+- 💻 I’m currently working on Data Science & Machine Learning 
+- 📚 I’m currently learning Deep & Dark Web / CyberSecurity
 - 💬 Ask me about Data Science, Optmization an Operational Research
 - 📫 How to reach me: rodrigo_biasuz@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Master in  Mechanical Engineering 
 
-<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rbiasuz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align="left">
   <a href="https://github.com/Rbiasuz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rbiasuz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbiasuz&hide=html,jupyter%20notebook&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
  
   ##
