@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on Data Science & Machine Learning 
-- 📚 I’m currently learning Deep & Dark Web / CyberSecurity
-- 💬 Ask me about Data Science, Optmization an Operational Research
+- 💻 I’m currently working with CRISP-DM (Data Science & Machine Learning) 
+- 📚 I’m currently learning Deep & Dark Web / Cyber Security
+- 💬 Ask me about Data Science, Optimization an Operational Research
 - 📫 How to reach me: rodrigo_biasuz@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Master in  Mechanical Engineering 
